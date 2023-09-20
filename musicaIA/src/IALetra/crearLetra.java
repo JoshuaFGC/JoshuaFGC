@@ -8,6 +8,7 @@ public class crearLetra extends base {
 	public String generar(String pClave) {
 		//generar letra
 		//retorna la letra en string
+		return letra;
 	}
 	
 }
